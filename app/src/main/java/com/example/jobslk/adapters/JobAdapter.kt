@@ -51,3 +51,4 @@ class JobAdapter (
     }
 
 }
+//job adapter
