@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249656611674",
+    "project_id": "blackdevils-68dde",
+    "storage_bucket": "blackdevils-68dde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249656611674:android:13913cd7db3c3f3f559963",
+        "android_client_info": {
+          "package_name": "com.example.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249656611674-1lnvsqo6e91ej2eu34ka43c2cmkp2mnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrB3W3QAFr_6nQzhksDUijp2BS_tYf-zU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249656611674-1lnvsqo6e91ej2eu34ka43c2cmkp2mnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

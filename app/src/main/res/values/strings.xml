@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">jobs.lk</string>
+    <string name="btn_name">Submit</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_apply">Apply Now</string>
+    <string name="j_title">UI/UX Design</string>
+    <string name="e_text_name1">First Name</string>
+    <string name="e_text_name2">Last Name</string>
+    <string name="text_des">Job Description</string>
+    <string name="text_job">Job Title</string>
+    <string name="text_type">Job Type</string>
+    <string name="text_req">Job Requirement</string>
+    <string name="text_com">Company Name</string>
+    <string name="description">UI UX designers create the user interface for an app, website, or other interactive media. Their work includes collaborating with product managers and engineers to gather requirements from users before designing ideas that can be communicated using storyboards. They also process flows or sitemaps.</string>
+    <string name="requirement">"Proven work experience as a UI/UX Designer or similar role.Portfolio of design projects.Knowledge of wireframe tools (e.g. Wireframe.cc and InVision)Up-to-date knowledge of design software like Adobe Illustrator and Photoshop."</string>
+
+</resources>
