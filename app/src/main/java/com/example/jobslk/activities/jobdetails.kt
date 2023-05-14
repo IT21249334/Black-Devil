@@ -147,3 +147,4 @@ class jobdetails : AppCompatActivity() {
         dbRef.setValue(jobinfo)
     }
 }
+//this is job details
