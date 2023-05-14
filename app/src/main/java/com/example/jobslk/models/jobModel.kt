@@ -8,3 +8,4 @@ class jobModel (
     var requirement: String? = null,
     var salary: String? = null,
     )
+//job model
